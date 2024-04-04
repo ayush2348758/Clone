@@ -1,1 +1,1 @@
-# Clone
+# Basing Frontend of college website.
